@@ -21,7 +21,7 @@ I'm enjoy and comfortable when working with Front-end Web.
 
 #### JS Related
 ![ReactNative](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-000000?logo=nodedotjs&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat)
 <br/>
 
 
