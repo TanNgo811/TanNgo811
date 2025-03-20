@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/ton269"><img src="https://api.daily.dev/devcards/v2/xuIjQTX6Xpci8gSNWz0Y5.png?r=cxg" width="356" alt="Ton's Dev Card"/></a>
+### Contact me
+
+[![Linkedn](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tanngo811/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ngotientan811@gmail.com)
+
+### Github Stats
+
+[![Blurk's github stats](https://github-readme-stats.vercel.app/api?username=TanNgo811&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
